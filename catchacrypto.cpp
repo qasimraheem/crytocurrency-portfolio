@@ -1,4 +1,5 @@
 ﻿//developed by Qasim Raheem Khalid Mehmood Khokhar
+//this code is not 100% complete but it will work, i will arrange it later.
 #include"stdafx.h"
 #include<stdlib.h>
 #include <sstream>
@@ -26,7 +27,6 @@
 #include <cstdio>
 #include <ios>
 #include <conio.h>
-#include <windows.h>
 #include"stdafx.h"
 #include"stdafx.h"
 #include<stdlib.h>
@@ -42,13 +42,10 @@
 #include<MMSystem.h>
 #include <winuser.h>
 #include <iomanip>
-#include <windows.h>
 #include <thread>
 #include <atomic>
 #include <iostream>
 #include <string>
-#include <windows.h>
-#include <iostream>
 #pragma comment(lib, "winmm.lib")
 
 
