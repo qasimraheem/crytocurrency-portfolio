@@ -1,17 +1,16 @@
 ﻿//developed by Qasim Raheem Khalid Mehmood Khokhar
 //this code is not 100% complete but it will work, i will arrange it later.
 #include"stdafx.h"
+#include<iostream>
 #include<stdlib.h>
 #include <sstream>
+#include<string>
 #include <string.h>
 #include<cstring>
 #include<math.h>
-#include<iostream>
-#include<string>
 #include<conio.h>
 #include<time.h>
 #include <locale.h>
-#include <sstream>
 #include<fstream>
 #include<windows.h>
 #include <fcntl.h>
