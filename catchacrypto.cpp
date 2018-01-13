@@ -19,30 +19,13 @@
 #include<MMSystem.h>
 #include <winuser.h>
 #include <io.h>
-#include <fcntl.h>
-#include <iostream>
-#include <string>
 #include <cstdlib>
 #include <cstdio>
 #include <ios>
-#include <conio.h>
-#include"stdafx.h"
-#include"stdafx.h"
-#include<stdlib.h>
-#include<cstring>
-#include<iostream>
-#include<string>
-#include<conio.h>
-#include<time.h>
-#include <sstream>
-#include<string>
-#include<windows.h>
-#include<MMSystem.h>
 #include <winuser.h>
 #include <iomanip>
 #include <thread>
 #include <atomic>
-#include <string>
 #pragma comment(lib, "winmm.lib")
 
 
