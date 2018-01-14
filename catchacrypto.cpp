@@ -1,4 +1,5 @@
 ﻿//developed by Qasim Raheem Khalid Mehmood Khokhar
+//i will change this code in chunks
 //this code is not 100% complete but it will work, i will arrange it later.
 #include"stdafx.h"
 #include<iostream>
@@ -30,7 +31,6 @@
 
 
 #define on ,
-
 
 using namespace std;
 int main();
