@@ -30,7 +30,7 @@
 #pragma comment(lib, "winmm.lib")
 
 
-#define on ,
+#define on,
 
 using namespace std;
 int main();
@@ -49,7 +49,7 @@ void userdata();
 void menu();
 void clean_coin();
 
-
+//global variables
 bool coin_found = false;
 char menu_opt;
 string name;
@@ -74,11 +74,14 @@ int text_scolor = 0;
 
 int decimal_point = 8;
 
+//alarm tone
 string alarm_tone_name = "Best_ringtones_remix_part_2_1_.wav";
+
+//convertor
 std::wstring stemp = std::wstring(alarm_tone_name.begin(), alarm_tone_name.end());
 LPCWSTR alarm_tone = stemp.c_str();
 
-
+//global structures
 struct sreach
 {
 	int s_id;
