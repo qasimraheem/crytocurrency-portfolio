@@ -91,6 +91,7 @@ struct sreach
 
 }c_search[1252];
 
+//all coins data
 struct Coin
 {
 	int listid = {0};
@@ -129,6 +130,7 @@ struct Coin
 }coin[100];
 
 
+//single coin data collector
 struct coin_bill
 {
 	int id=0;
@@ -144,6 +146,7 @@ struct coin_bill
 
 }coin_bill[100];
 
+//dashboard info
 struct  dash
 {
 
