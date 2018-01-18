@@ -186,6 +186,8 @@ void clear_desh()
 	}
 	
 }
+//integer velidation function
+
 int  int_validation()
 {
 	char user[30];
