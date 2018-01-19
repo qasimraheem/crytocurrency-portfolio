@@ -474,7 +474,7 @@ void get_id(string id)
 		}
 	}
 }
-
+//time function
 void currentDateTime() {
 	time_t     now = time(0);
 	struct tm  tstruct;
