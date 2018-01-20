@@ -33,6 +33,7 @@
 #define on,
 
 using namespace std;
+//functions define
 int main();
 int app_color_page = 4, app_color_text=15;
 void show_coin();
