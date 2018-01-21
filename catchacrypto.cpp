@@ -29,7 +29,6 @@
 #include <atomic>
 #pragma comment(lib, "winmm.lib")
 
-
 #define on,
 
 using namespace std;
@@ -301,8 +300,6 @@ void in_dash()
 	if (in_dash.is_open())
 	{
 		//cout << "file open";
-
-		
 			in_dash >> dash.price_btc >> 
 				dash.price_usd >>
 				dash.total_buy_btc >>
@@ -621,6 +618,7 @@ void create_buy()
 	//we are buying coin
 	buy_sell = "buy";
 }
+//sellcoin
 void create_sell()
 {
 
