@@ -28,7 +28,7 @@
 #include <thread>
 #include <atomic>
 #pragma comment(lib, "winmm.lib")
-
+//user defined
 #define on,
 
 using namespace std;
