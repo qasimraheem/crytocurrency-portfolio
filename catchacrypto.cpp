@@ -28,6 +28,7 @@
 #include <thread>
 #include <atomic>
 #pragma comment(lib, "winmm.lib")
+
 //user defined
 #define on,
 
@@ -49,7 +50,6 @@ void userdata();
 void menu();
 void clean_coin();
 
-//hello
 //global variables
 bool coin_found = false;
 char menu_opt;
