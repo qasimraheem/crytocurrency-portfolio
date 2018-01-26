@@ -147,6 +147,7 @@ struct coin_bill
 
 }coin_bill[100];
 
+
 //dashboard info
 struct  dash
 {
@@ -184,8 +185,7 @@ void clear_desh()
 		dash.profit_btc[i]='\0';
 		dash.profit_usd[i] = '\0';
 
-	}
-	
+	}	
 }
 //integer velidation function
 
@@ -444,6 +444,7 @@ void getall()
 		}
 	}
 }
+//not using
 void get_id(string id)
 {
 	string line;
