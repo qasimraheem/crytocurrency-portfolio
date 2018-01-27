@@ -49,7 +49,7 @@ void save_setup_settings();
 void userdata();
 void menu();
 void clean_coin();
-
+//hello
 //global variables
 bool coin_found = false;
 char menu_opt;
